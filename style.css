@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.main-con{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.ludo-con{
+    padding: 5px;
+    height: 95vh;
+    width: 95vh;
+    border: 1px solid;
+}
+
+
+.first-row{
+    /* border: 1px solid rgb(55, 27, 156); */
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first-sndBox{
+    height: 35vh;
+    width: 150px;
+    margin: 5px;
+}
+.second-row{
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.snd-first-po{
+    height: 23vh;
+    width: 250px;
+    margin: 5px;
+}
+.snd-snd-po{
+    height: 20vh;
+    width: 150px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+}
+.snd-thd-po{
+    height: 23vh;
+    width: 250px;
+    margin: 5px;
+}
+.fstBox{
+    height: 35vh;
+    width: 250px;
+    margin: 5px;
+    background-color: rgb(0, 255, 76);
+}
+.thdBox{
+    height: 35vh;
+    width: 250px;
+    margin: 5px;
+    background-color: rgb(196, 26, 119);
+}
+
+.dice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+}
+.dicepo{
+    height: 30px;
+    width: 30px;
+    margin: 2px 8px;
+    border: 1px solid;
+}
+.scdDice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.scndDiceRole{
+    height: 30px;
+    width: 30px;
+    margin: 8px 2px;
+    border: 1px solid;
+}
+.gren{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow-b{
+    background-color: yellow;
+}
+.green-b{
+background-color: green;
+}
+.red-b{
+    background-color: red;
+}
